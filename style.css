@@ -19,8 +19,9 @@
         margin: 0 auto; 
         padding: 20px;
     }
-  
-     /* Header Section */
+    .header-container {
+        width: 1440px;; 
+    }
      header {
          display: flex;
          align-items: center;
